@@ -5,5 +5,5 @@ The UI is good and it's a version control software
 pwd is used to find in which durectory I am  in
 **What I Learned** 
 “I am learning how Git and GitHub work together.”
-
+“Update README.md remote synchronization with local changes"
 
